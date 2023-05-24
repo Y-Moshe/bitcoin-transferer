@@ -1,10 +1,10 @@
-# Mister-bitcoin
+# Bitcoin-transferer
 
 ![all-devices-black](src/assets/all-devices-black.png)
 
-Mister-bitcoin, A Place where user can transfer his coins with other users, manage his contacts and track his transfer coins with rich of features.  
+Bitcoin-transferer, A Place where user can transfer his coins with other users, manage his contacts and track his transfer coins with rich of features.  
 The app using LocalStorage(DB & Server connection is yet to be!)  
-**[DEMO WEBSITE](https://y-moshe.github.io/mister-bitcoin/#/home)**
+**[DEMO WEBSITE](https://y-moshe.github.io/bitcoin-transferer/#/home)**
 
 ## Build with
 
