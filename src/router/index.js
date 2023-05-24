@@ -1,5 +1,5 @@
 import React from 'react'
-import { createBrowserRouter, Navigate } from 'react-router-dom'
+import { createHashRouter, Navigate } from 'react-router-dom'
 
 import HomePage from '../views/HomePage'
 import SignupPage from '../views/SignupPage'
@@ -9,7 +9,7 @@ import ContactEdit from '../views/ContactEdit'
 import StatisticPage from '../views/Statistic'
 import App from '../App'
 
-export const router = createBrowserRouter([
+export const router = createHashRouter([
   {
     path: '/',
     element: <App />,
