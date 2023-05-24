@@ -2,7 +2,6 @@
   "name": "bitcoin-transferer",
   "version": "1.0.0",
   "private": false,
-  "homepage": "https://y-moshe.github.io/bitcoin-transferer",
   "license": "MIT",
   "dependencies": {
     "@blueprintjs/core": "^4.13.0",
